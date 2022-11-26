@@ -42,13 +42,16 @@ public class Enemy : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.LogError(other.gameObject.name);
+        // Debug.LogError(other.gameObject.name);
         // other.GetComponent<Health>().Damage(damage);
-        if (this.GetComponent<Health>().GetObjectType == ObjectType.RESOURCE)
+        Health thisHealth = this.GetComponent<Health>();
+        if (thisHealth.GetObjectType == ObjectType.RESOURCE && other.CompareTag("Player"))
         {
             TreeHandler.Instance.AddCoin();
-            this.GetComponent<Health>().Damage(10000);
-            Debug.Log("AddCoin");
+            thisHealth.Damage(10000);
+            if (other.GetComponent<Health>() != null)
+                other.GetComponent<Health>().Heal(5);
+            EnemySpawner.Instance.PlayHealSound();
         }
         else
         {
@@ -56,14 +59,21 @@ public class Enemy : MonoBehaviour
             {
                 if (other.GetComponent<Health>() != null)
                 {
+                    TreeHandler.Instance.HitAxe();
                     other.GetComponent<Health>().Damage(damage);
-                    this.GetComponent<Health>().Damage(10000);
+                    thisHealth.Damage(10000);
                     Debug.Log("Dame PLAYER");                    
                 }
             }
             else if (other.CompareTag("Shield"))
             {
-                this.GetComponent<Health>().Damage(10000);
+                thisHealth.Damage(10000);
+                if (thisHealth.GetObjectType == ObjectType.ENEMY)
+                    EnemySpawner.Instance.PlayAxeSound();
+                else
+                {
+                    EnemySpawner.Instance.PlaySunSound();
+                }
                 Debug.Log("Dame Object");
             }
         }
