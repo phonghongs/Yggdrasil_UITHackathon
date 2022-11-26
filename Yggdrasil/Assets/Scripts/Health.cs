@@ -18,6 +18,7 @@ public class Health : MonoBehaviour
 
     private int MAX_HEALTH = 100;
 
+    public ObjectType GetObjectType => type;
     // Update is called once per frame
     void Update()
     {
@@ -84,7 +85,7 @@ public class Health : MonoBehaviour
 
     private void Die()
     {
-        Debug.Log("I am Dead!");
+        // Debug.Log("I am Dead!");
         if (type == ObjectType.ENEMY)
         {
             if (EnemySpawner.Instance.spawnedEnemy.Contains(this.GameObject()))

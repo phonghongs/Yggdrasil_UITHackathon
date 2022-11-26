@@ -31,7 +31,8 @@ public class Enemy : MonoBehaviour
     {
         GetComponent<Health>().SetHealth(data.hp, data.hp);
         damage = data.damage;
-        speed = data.speed;
+        speed = Random.Range((float)data.speed, (float)data.speed + 2f);
+        Debug.Log(Random.Range((float)data.speed, (float)data.speed + 2f));
     }
 
     private void Swarm()
@@ -44,6 +45,14 @@ public class Enemy : MonoBehaviour
         if (!other.CompareTag("Player")) return;
         if (other.GetComponent<Health>() == null) return;
         // other.GetComponent<Health>().Damage(damage);
+        if (this.GetComponent<Health>().GetObjectType == ObjectType.RESOURCE)
+        {
+            TreeHandler.Instance.AddCoin();
+        }
+        else
+        {
+            // other.GetComponent<Health>().Damage(damage);
+        }
         this.GetComponent<Health>().Damage(10000);
     }
 }

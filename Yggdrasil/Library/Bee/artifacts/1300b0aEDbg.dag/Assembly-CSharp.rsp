@@ -119,6 +119,7 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
@@ -325,13 +326,13 @@
 -r:"/Applications/Unity/Hub/Editor/2021.3.13f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.13f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.13f1/Unity.app/Contents/NetStandard/ref/2.1.0/netstandard.dll"
--r:"/Users/phong.lh/Desktop/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll"
--r:"/Users/phong.lh/Desktop/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll"
--r:"/Users/phong.lh/Desktop/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll"
--r:"/Users/phong.lh/Desktop/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
--r:"/Users/phong.lh/Desktop/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.Unsafe.dll"
--r:"/Users/phong.lh/Desktop/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
--r:"/Users/phong.lh/Desktop/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll"
+-r:"/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll"
+-r:"/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll"
+-r:"/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
+-r:"/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.Unsafe.dll"
+-r:"/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
+-r:"/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/PPv2URPConverters.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/PsdPlugin.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.2D.Animation.Editor.ref.dll"
@@ -352,6 +353,7 @@
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.2D.Tilemap.Extras.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Burst.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Burst.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.InputSystem.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.InternalAPIEditorBridge.001.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.InternalAPIEngineBridge.001.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Mathematics.Editor.ref.dll"
@@ -394,8 +396,28 @@
 "Assets/Scripts/Health.cs"
 "Assets/Scripts/ObjectPoolSpawner.cs"
 "Assets/Scripts/PlayerAttack.cs"
-"Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/Singleton.cs"
+"Assets/Scripts/TreeHandler.cs"
+"Assets/Simple Mobile UI Inputs/Joystick Pack/Scripts/Base/Joystick.cs"
+"Assets/Simple Mobile UI Inputs/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs"
+"Assets/Simple Mobile UI Inputs/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs"
+"Assets/Simple Mobile UI Inputs/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs"
+"Assets/Simple Mobile UI Inputs/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs"
+"Assets/Simple Mobile UI Inputs/Scripts/Base/Input Enums.cs"
+"Assets/Simple Mobile UI Inputs/Scripts/Base/UIInputsFinder.cs"
+"Assets/Simple Mobile UI Inputs/Scripts/Base/UIInputSystem.cs"
+"Assets/Simple Mobile UI Inputs/Scripts/Demo/DebugButtons.cs"
+"Assets/Simple Mobile UI Inputs/Scripts/Tools/UIInput.cs"
+"Assets/Simple Mobile UI Inputs/Scripts/Tools/UIInputButton.cs"
+"Assets/Simple Mobile UI Inputs/Scripts/Tools/UIInputJoystick.cs"
+"Assets/Simple Mobile UI Inputs/Simple Character Controller/CharacterControllerSystem/CameraMovement.cs"
+"Assets/Simple Mobile UI Inputs/Simple Character Controller/CharacterControllerSystem/PlayerMovement.cs"
+"Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Examples/Scripts/PlayerActionsExample.cs"
+"Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Examples/Scripts/PlayerControllerExample.cs"
+"Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualButton.cs"
+"Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualDPad.cs"
+"Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualJoystick.cs"
+"Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualJoystickFloating.cs"
 -langversion:9.0
 
 /deterministic
