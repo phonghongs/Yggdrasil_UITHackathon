@@ -71,7 +71,6 @@
      <Compile Include="Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualButton.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Scripts/Demo/DebugButtons.cs" />
      <Compile Include="Assets/Scripts/CircleMoving.cs" />
-     <None Include="Assets/StreamingAssets/UnityServicesProjectConfiguration.json" />
      <None Include="Assets/LICENSE.txt" />
      <None Include="Assets/CREDITS.txt" />
      <Reference Include="UnityEngine">

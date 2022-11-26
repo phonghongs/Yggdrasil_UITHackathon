@@ -57,6 +57,7 @@ public class Enemy : MonoBehaviour
                 if (other.GetComponent<Health>() != null)
                 {
                     other.GetComponent<Health>().Damage(damage);
+                    this.GetComponent<Health>().Damage(10000);
                     Debug.Log("Dame PLAYER");                    
                 }
             }
