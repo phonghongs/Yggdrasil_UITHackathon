@@ -44,25 +44,34 @@
      <Compile Include="Assets/Simple Mobile UI Inputs/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" />
      <Compile Include="Assets/Scripts/AttackArea.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Scripts/Base/UIInputsFinder.cs" />
+     <Compile Include="Assets/DOTween/Modules/DOTweenModuleAudio.cs" />
      <Compile Include="Assets/Scripts/Singleton.cs" />
      <Compile Include="Assets/Scripts/TreeHandler.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs" />
      <Compile Include="Assets/Scripts/ObjectPoolSpawner.cs" />
+     <Compile Include="Assets/DOTween/Modules/DOTweenModuleEPOOutline.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Scripts/Tools/UIInput.cs" />
      <Compile Include="Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualJoystickFloating.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Simple Character Controller/CharacterControllerSystem/CameraMovement.cs" />
+     <Compile Include="Assets/DOTween/Modules/DOTweenModulePhysics.cs" />
+     <Compile Include="Assets/DOTween/Modules/DOTweenModuleUnityVersion.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs" />
+     <Compile Include="Assets/DOTween/Modules/DOTweenModulePhysics2D.cs" />
      <Compile Include="Assets/Scripts/CircleMoving.cs" />
+     <Compile Include="Assets/DOTween/Modules/DOTweenModuleUtils.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Scripts/Tools/UIInputJoystick.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" />
      <Compile Include="Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Examples/Scripts/PlayerActionsExample.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Simple Character Controller/CharacterControllerSystem/PlayerMovement.cs" />
      <Compile Include="Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Examples/Scripts/PlayerControllerExample.cs" />
      <Compile Include="Assets/Scripts/EnemySpawner.cs" />
+     <Compile Include="Assets/DOTween/Modules/DOTweenModuleUI.cs" />
      <Compile Include="Assets/Scripts/Enemy.cs" />
+     <Compile Include="Assets/DOTween/Modules/DOTweenModuleSprite.cs" />
      <Compile Include="Assets/Scripts/EnemyData.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Joystick Pack/Scripts/Base/Joystick.cs" />
      <Compile Include="Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualJoystick.cs" />
+     <Compile Include="Assets/Source/HP.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Scripts/Base/Input Enums.cs" />
      <Compile Include="Assets/Scripts/Health.cs" />
      <Compile Include="Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualDPad.cs" />
@@ -71,15 +80,6 @@
      <Compile Include="Assets/Simple Mobile UI Inputs/Scripts/Base/UIInputSystem.cs" />
      <Compile Include="Assets/VirtualButtonsForUnity/VirtualButtonsForUnity/Scripts/VirtualButton.cs" />
      <Compile Include="Assets/Simple Mobile UI Inputs/Scripts/Demo/DebugButtons.cs" />
-     <Compile Include="Assets/DOTween/Modules/DOTweenModulePhysics.cs" />
-     <Compile Include="Assets/DOTween/Modules/DOTweenModuleUnityVersion.cs" />
-     <Compile Include="Assets/DOTween/Modules/DOTweenModuleSprite.cs" />
-     <Compile Include="Assets/DOTween/Modules/DOTweenModulePhysics2D.cs" />
-     <Compile Include="Assets/DOTween/Modules/DOTweenModuleEPOOutline.cs" />
-     <Compile Include="Assets/DOTween/Modules/DOTweenModuleUtils.cs" />
-     <Compile Include="Assets/DOTween/Modules/DOTweenModuleAudio.cs" />
-     <Compile Include="Assets/DOTween/Modules/DOTweenModuleUI.cs" />
-     <Compile Include="Assets/Source/HP.cs" />
      <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
@@ -350,6 +350,9 @@
      <Reference Include="Unity.Burst.Cecil.Mdb">
      <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
      </Reference>
+     <Reference Include="DOTween">
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Assets/DOTween/DOTween.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.Burst.Cecil.Pdb">
      <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
      </Reference>
@@ -364,9 +367,6 @@
      </Reference>
      <Reference Include="Newtonsoft.Json">
      <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
-     </Reference>
-     <Reference Include="DOTween">
-     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Assets/DOTween/DOTween.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>/Applications/Unity/Hub/Editor/2021.3.13f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>

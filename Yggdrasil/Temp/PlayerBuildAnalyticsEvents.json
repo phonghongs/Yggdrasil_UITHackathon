@@ -1,240 +1,47 @@
 {
   "player_build_data": [
     {
-      "type": "il2cppData",
-      "msg": {
-        "build_event_id": "9dc1f84cc7ead4414afa06b31c6a5190",
-        "node_executed": true,
-        "attribute_total_count_eager_static_constructor": 80,
-        "attribute_total_count_set_option": 0,
-        "attribute_total_count_generate_into_own_cpp_file": 0,
-        "extra_types_total_count": 0,
-        "option_extra_types_file_count": 0,
-        "option_jobs": 8,
-        "option_debug_assembly_name_count": 0,
-        "option_additional_cpp_count": 0,
-        "option_emit_null_checks": true,
-        "option_enable_stacktrace": false,
-        "option_enable_deep_profiler": false,
-        "option_enable_stats": false,
-        "option_enable_array_bounds_check": true,
-        "option_enable_divide_by_zero_check": false,
-        "option_disable_generic_sharing": false,
-        "option_maximum_recursive_generic_depth": 7,
-        "option_generic_virtual_method_iterations": 1,
-        "option_code_generation_option": [
-          "EnableInlining"
-        ],
-        "option_file_generation_option": [],
-        "option_generics_option": [],
-        "option_feature": [],
-        "option_diagnostic_option": [],
-        "option_convert_to_cpp": true,
-        "option_compile_cpp": false,
-        "option_development_mode": false,
-        "option_enable_debugger": false,
-        "option_generate_usym_file": false
-      },
-      "version": 1
-    },
-    {
       "type": "playerBuildTimingData",
       "msg": {
-        "build_event_id": "9dc1f84cc7ead4414afa06b31c6a5190",
-        "build_player": 384798,
-        "preprocess_player": 931,
-        "produce_player_script_assemblies": 14385,
-        "build_scripts_dlls": 3938,
-        "writing_asset_files": 52313,
-        "postprocess_built_player": 300677,
+        "build_event_id": "8a84ad50ca30c45cdb27c7ce9f1a96dd",
+        "build_player": 49992,
+        "preprocess_player": 621,
+        "produce_player_script_assemblies": 12786,
+        "build_scripts_dlls": 3330,
+        "writing_asset_files": 820,
+        "postprocess_built_player": 29331,
         "node_summary_table": [
           {
             "name": "Csc",
-            "duration": 812
+            "duration": 781
           },
           {
             "name": "Csc",
-            "duration": 1330
+            "duration": 1364
           },
           {
             "name": "Csc",
-            "duration": 529
+            "duration": 693
           },
           {
             "name": "Csc",
-            "duration": 419
+            "duration": 442
           },
           {
             "name": "Csc",
-            "duration": 741
+            "duration": 1151
           },
           {
             "name": "Csc",
-            "duration": 851
+            "duration": 713
           },
           {
             "name": "Csc",
-            "duration": 934
+            "duration": 592
           },
           {
             "name": "Csc",
-            "duration": 676
-          },
-          {
-            "name": "Csc",
-            "duration": 516
-          },
-          {
-            "name": "Csc",
-            "duration": 436
-          },
-          {
-            "name": "Csc",
-            "duration": 434
-          },
-          {
-            "name": "Csc",
-            "duration": 449
-          },
-          {
-            "name": "Csc",
-            "duration": 1782
-          },
-          {
-            "name": "Csc",
-            "duration": 502
-          },
-          {
-            "name": "Csc",
-            "duration": 576
-          },
-          {
-            "name": "Csc",
-            "duration": 528
-          },
-          {
-            "name": "Csc",
-            "duration": 396
-          },
-          {
-            "name": "Csc",
-            "duration": 706
-          },
-          {
-            "name": "Csc",
-            "duration": 464
-          },
-          {
-            "name": "Csc",
-            "duration": 757
-          },
-          {
-            "name": "Csc",
-            "duration": 676
-          },
-          {
-            "name": "Csc",
-            "duration": 828
-          },
-          {
-            "name": "Csc",
-            "duration": 584
-          },
-          {
-            "name": "Csc",
-            "duration": 861
-          },
-          {
-            "name": "Csc",
-            "duration": 807
-          },
-          {
-            "name": "Csc",
-            "duration": 416
-          },
-          {
-            "name": "Csc",
-            "duration": 534
-          },
-          {
-            "name": "Csc",
-            "duration": 480
-          },
-          {
-            "name": "Csc",
-            "duration": 658
-          },
-          {
-            "name": "Csc",
-            "duration": 541
-          },
-          {
-            "name": "Csc",
-            "duration": 727
-          },
-          {
-            "name": "Csc",
-            "duration": 1296
-          },
-          {
-            "name": "Csc",
-            "duration": 593
-          },
-          {
-            "name": "Csc",
-            "duration": 701
-          },
-          {
-            "name": "Csc",
-            "duration": 833
-          },
-          {
-            "name": "Csc",
-            "duration": 511
-          },
-          {
-            "name": "Csc",
-            "duration": 357
-          },
-          {
-            "name": "Csc",
-            "duration": 645
-          },
-          {
-            "name": "Csc",
-            "duration": 1056
-          },
-          {
-            "name": "Csc",
-            "duration": 635
-          },
-          {
-            "name": "Csc",
-            "duration": 385
-          },
-          {
-            "name": "Csc",
-            "duration": 582
-          },
-          {
-            "name": "Csc",
-            "duration": 440
-          },
-          {
-            "name": "Csc",
-            "duration": 413
-          },
-          {
-            "name": "Csc",
-            "duration": 566
-          },
-          {
-            "name": "Csc",
-            "duration": 582
-          },
-          {
-            "name": "Csc",
-            "duration": 426
+            "duration": 656
           },
           {
             "name": "Csc",
@@ -242,19 +49,115 @@
           },
           {
             "name": "Csc",
-            "duration": 417
+            "duration": 564
           },
           {
             "name": "Csc",
-            "duration": 535
+            "duration": 565
           },
           {
             "name": "Csc",
-            "duration": 932
+            "duration": 614
           },
           {
             "name": "Csc",
-            "duration": 414
+            "duration": 1211
+          },
+          {
+            "name": "Csc",
+            "duration": 305
+          },
+          {
+            "name": "Csc",
+            "duration": 311
+          },
+          {
+            "name": "Csc",
+            "duration": 939
+          },
+          {
+            "name": "Csc",
+            "duration": 440
+          },
+          {
+            "name": "Csc",
+            "duration": 428
+          },
+          {
+            "name": "Csc",
+            "duration": 348
+          },
+          {
+            "name": "Csc",
+            "duration": 952
+          },
+          {
+            "name": "Csc",
+            "duration": 336
+          },
+          {
+            "name": "Csc",
+            "duration": 555
+          },
+          {
+            "name": "Csc",
+            "duration": 669
+          },
+          {
+            "name": "Csc",
+            "duration": 575
+          },
+          {
+            "name": "Csc",
+            "duration": 302
+          },
+          {
+            "name": "Csc",
+            "duration": 709
+          },
+          {
+            "name": "Csc",
+            "duration": 502
+          },
+          {
+            "name": "Csc",
+            "duration": 556
+          },
+          {
+            "name": "Csc",
+            "duration": 401
+          },
+          {
+            "name": "Csc",
+            "duration": 455
+          },
+          {
+            "name": "Csc",
+            "duration": 1629
+          },
+          {
+            "name": "Csc",
+            "duration": 394
+          },
+          {
+            "name": "Csc",
+            "duration": 359
+          },
+          {
+            "name": "Csc",
+            "duration": 556
+          },
+          {
+            "name": "Csc",
+            "duration": 620
+          },
+          {
+            "name": "Csc",
+            "duration": 1274
+          },
+          {
+            "name": "Csc",
+            "duration": 664
           },
           {
             "name": "Csc",
@@ -262,82 +165,53 @@
           },
           {
             "name": "Csc",
-            "duration": 478
+            "duration": 519
           },
           {
             "name": "Csc",
-            "duration": 436
+            "duration": 1128
           },
           {
             "name": "Csc",
-            "duration": 514
+            "duration": 599
+          },
+          {
+            "name": "Csc",
+            "duration": 629
+          },
+          {
+            "name": "Csc",
+            "duration": 451
+          },
+          {
+            "name": "Csc",
+            "duration": 414
+          },
+          {
+            "name": "Csc",
+            "duration": 390
+          },
+          {
+            "name": "Csc",
+            "duration": 1171
+          },
+          {
+            "name": "Csc",
+            "duration": 774
+          },
+          {
+            "name": "Csc",
+            "duration": 786
+          },
+          {
+            "name": "Csc",
+            "duration": 802
+          },
+          {
+            "name": "Csc",
+            "duration": 484
           }
         ]
-      },
-      "version": 1
-    },
-    {
-      "type": "unityLinkerData",
-      "msg": {
-        "build_event_id": "9dc1f84cc7ead4414afa06b31c6a5190",
-        "node_executed": true,
-        "attribute_marked_count_always_link_assembly": 0,
-        "attribute_swept_count_always_link_assembly": 0,
-        "attribute_total_count_always_link_assembly": 0,
-        "attribute_marked_count_preserve": 164,
-        "attribute_total_count_preserve": 127,
-        "attribute_total_count_preserve_body": 0,
-        "attribute_marked_count_required_member": 0,
-        "attribute_swept_count_required_member": 8,
-        "attribute_total_count_required_member": 8,
-        "attribute_marked_count_require_derived": 0,
-        "attribute_swept_count_require_derived": 0,
-        "attribute_total_count_require_derived": 0,
-        "attribute_marked_count_require_implementors": 0,
-        "attribute_swept_count_require_implementors": 0,
-        "attribute_total_count_require_implementors": 0,
-        "attribute_total_count_required_interface": 0,
-        "attribute_marked_count_require_attribute_usages": 0,
-        "attribute_total_count_require_attribute_usages": 0,
-        "attribute_total_count_dynamic_dependency": 0,
-        "attribute_marked_count_dynamic_dependency": 76,
-        "attribute_swept_count_dynamic_dependency": -76,
-        "assembly_counts_total_in": 100,
-        "assembly_counts_link": 36,
-        "assembly_counts_copy": 27,
-        "assembly_counts_delete": 37,
-        "assembly_counts_total_out": 63,
-        "unresolved_stubbing_total_count": 0,
-        "unresolved_stubbing_missing_interface_method_count": 0,
-        "unresolved_stubbing_missing_abstract_class_method_count": 0,
-        "unresolved_stubbing_missing_type_count": 0,
-        "unresolved_stubbing_missing_method_count": 0,
-        "unrecognized_reflection_access_total_count": 463,
-        "unrecognized_reflection_access_core_count": 219,
-        "unrecognized_reflection_access_unity_count": 202,
-        "unrecognized_reflection_access_user_count": 42,
-        "recognized_reflection_access_total_count": 56,
-        "recognized_reflection_access_core_count": 40,
-        "recognized_reflection_access_unity_count": 12,
-        "recognized_reflection_access_user_count": 4,
-        "link_xml_total_count": 12,
-        "link_xml_embedded_count": 1,
-        "link_xml_embedded_unity_count": 0,
-        "link_xml_embedded_user_count": 0,
-        "link_xml_file_count": 11,
-        "link_xml_assembly_preserve_all_total_count": 0,
-        "link_xml_assembly_preserve_all_unity_count": 0,
-        "link_xml_assembly_preserve_all_core_count": 0,
-        "link_xml_assembly_preserve_all_user_count": 0,
-        "engine_module_total_in": 63,
-        "engine_module_deleted": 33,
-        "engine_module_total_out": 30,
-        "option_rule_set": "Minimal",
-        "option_enable_report": false,
-        "option_enable_snapshot": false,
-        "option_enable_engine_module_stripping": true,
-        "option_unity_root_strategy": "AllNonEngineAndNonClassLibraries",
-        "option_enable_ildump": false
       },
       "version": 1
     }

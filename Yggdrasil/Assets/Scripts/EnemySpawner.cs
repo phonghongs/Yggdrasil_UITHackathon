@@ -93,6 +93,11 @@ public class EnemySpawner : Singleton<EnemySpawner>
         Score.text = Math.Round(Time.realtimeSinceStartup - offsetTime).ToString();
         Score.gameObject.transform.DOScale(2, 3);
     }
+
+    public void ResetUI()
+    {
+        Score.gameObject.SetActive(false);
+    }
     public void Restart()
     {
         enemyTimeSpawn = 0;
@@ -104,7 +109,6 @@ public class EnemySpawner : Singleton<EnemySpawner>
         buttonStart.SetActive(true);
         ImageLogo.SetActive(true);
         GamePlayUI.SetActive(false);
-        Score.gameObject.SetActive(false);
         buttonStart.gameObject.transform.DOScale(new Vector3(1.2f, 1.2f, 1.2f), 1)
             .SetEase(Ease.InOutSine).SetLoops(-1, LoopType.Yoyo);
         // ImageLogo.gameObject.transform.DOScale(new Vector3(1.1f, 1.1f, 1.1f), 1)

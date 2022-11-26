@@ -160,10 +160,10 @@ public class Health : MonoBehaviour
     IEnumerator DeadLoading()
     {
         EnemySpawner.Instance.ShowScore();
-        yield return new WaitForSeconds(3);
         EnemySpawner.Instance.Restart();
+        yield return new WaitForSeconds(3);
         TreeHandler.Instance.Reset();
-
+        EnemySpawner.Instance.ResetUI();
         if (isChangedFeel)
         {
             TreeHandler.Instance.ChangeFeel(isChangedFeel);
