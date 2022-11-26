@@ -10,6 +10,7 @@ public class TreeHandler : Singleton<TreeHandler>
     [SerializeField] private float scaleScreenValue;
     public int GetTreeSize => treeSize;
     public Health treeHealth;
+    public GameObject shieldControler;
     private int preSize;
     private void Start()
     {

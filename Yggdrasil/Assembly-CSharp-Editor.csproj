@@ -307,49 +307,49 @@
      <HintPath>/Applications/Unity/Hub/Editor/2021.3.13f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Plastic.Newtonsoft.Json">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.collab-proxy@1.17.6/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.collab-proxy@1.17.6/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Plastic.Antlr3.Runtime">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.collab-proxy@1.17.6/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.collab-proxy@1.17.6/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.YamlDotNet">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Unsafe">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.Unsafe.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.Unsafe.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Mdb">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.TextureAssets">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.IonicZip">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
      </Reference>
      <Reference Include="unityplastic">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.collab-proxy@1.17.6/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.collab-proxy@1.17.6/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Pdb">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
      </Reference>
      <Reference Include="log4netPlastic">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.collab-proxy@1.17.6/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.collab-proxy@1.17.6/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Cecil.Rocks">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.burst@1.7.3/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Newtonsoft.Json">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll</HintPath>
      </Reference>
      <Reference Include="nunit.framework">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>/Applications/Unity/Hub/Editor/2021.3.13f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
@@ -733,178 +733,178 @@
      <HintPath>/Applications/Unity/Hub/Editor/2021.3.13f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.TestRunner">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.TestRunner">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
      </Reference>
      <Reference Include="Unity.InternalAPIEngineBridge.001">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.PixelPerfect">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
      </Reference>
      <Reference Include="PsdPlugin">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Searcher.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Searcher.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.IK.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.IK.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Path.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.InputSystem">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.IK.Runtime">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.ShaderGraph.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Mathematics.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Common.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Tilemap.Extras">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Animation.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Tilemap.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="PPv2URPConverters">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/PPv2URPConverters.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Sprite.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Psdimporter.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.InternalAPIEditorBridge.001">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.Runtime">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Flow">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Tilemap.Extras.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Tilemap.Extras.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Core">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Services.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Core">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Mathematics">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Core.Analytics">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Services.Core.Analytics.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Burst">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Universal.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.Shared.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Services.Core.Environments">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Services.Core.Environments.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Animation.Runtime">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.PixelPerfect.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.Common.Runtime">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.SpriteShape.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.Editor">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.2D.SpriteShape.Runtime">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
-     <HintPath>/Users/phong.lh/Desktop/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+     <HintPath>/Users/phong.lh/Documents/GitHub/Yggdrasil_UITHackathon/Yggdrasil/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>

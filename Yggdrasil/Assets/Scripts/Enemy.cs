@@ -32,7 +32,7 @@ public class Enemy : MonoBehaviour
         GetComponent<Health>().SetHealth(data.hp, data.hp);
         damage = data.damage;
         speed = Random.Range((float)data.speed, (float)data.speed + 2f);
-        Debug.Log(Random.Range((float)data.speed, (float)data.speed + 2f));
+        // Debug.Log(Random.Range((float)data.speed, (float)data.speed + 2f));
     }
 
     private void Swarm()
@@ -42,17 +42,29 @@ public class Enemy : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (!other.CompareTag("Player")) return;
-        if (other.GetComponent<Health>() == null) return;
+        Debug.LogError(other.gameObject.name);
         // other.GetComponent<Health>().Damage(damage);
         if (this.GetComponent<Health>().GetObjectType == ObjectType.RESOURCE)
         {
             TreeHandler.Instance.AddCoin();
+            this.GetComponent<Health>().Damage(10000);
+            Debug.Log("AddCoin");
         }
         else
         {
-            // other.GetComponent<Health>().Damage(damage);
+            if (other.CompareTag("Player"))
+            {
+                if (other.GetComponent<Health>() != null)
+                {
+                    other.GetComponent<Health>().Damage(damage);
+                    Debug.Log("Dame PLAYER");                    
+                }
+            }
+            else if (other.CompareTag("Shield"))
+            {
+                this.GetComponent<Health>().Damage(10000);
+                Debug.Log("Dame Object");
+            }
         }
-        this.GetComponent<Health>().Damage(10000);
     }
 }

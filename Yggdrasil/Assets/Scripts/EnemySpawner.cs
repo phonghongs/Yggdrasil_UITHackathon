@@ -82,7 +82,7 @@ public class EnemySpawner : Singleton<EnemySpawner>
         {
             edgePositionHeight = -1;
         }
-        Debug.Log($"Screen: {screenWidth} - {screenHeight} || {edgePositionHeight * screenHeight} || {edgePositionHeight * screenWidth}");
+        // Debug.Log($"Screen: {screenWidth} - {screenHeight} || {edgePositionHeight * screenHeight} || {edgePositionHeight * screenWidth}");
         if (edgePositionWidth == 0)
         {
             return new Vector3(Random.Range(-screenWidth, screenWidth), edgePositionHeight * screenHeight, 0);
